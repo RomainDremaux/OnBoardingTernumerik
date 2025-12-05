@@ -1,0 +1,25 @@
+#winget install -e --id Adobe.Acrobat.Reader.64-bit
+winget install -e --id Jabra.Direct
+winget install -e --id Git.Git
+winget install -e --id PostgreSQL.pgAdmin
+winget install -e --id Toggl.TogglTrack
+winget install -e --id SlackTechnologies.Slack
+winget install -e --id DominikReichl.KeePass
+winget install -e --id Microsoft.BingWallpaper
+winget install -e --id Figma.Figma
+winget install -e --id Python.Python.3.13
+winget install -e --id OBSProject.OBSStudio
+winget install -e --id Postman.Postman
+winget install -e --id Canonical.Ubuntu.2404
+#winget install -e --id Zoom.Zoom
+#winget install -e --id TeamViewer.TeamViewer
+winget install -e --id Microsoft.PowerBI
+winget install -e --id Microsoft.WindowsTerminal 
+winget install -e --id Microsoft.PowerToys 
+winget install -e --id Microsoft.VisualStudioCode 
+winget install -e --id Microsoft.PowerShell
+winget install -e --id 7zip.7zip
+winget install --id 9MSPC6MP8FM4 #whiteboard
+winget install --id 9NP355QT2SQB #VPN Azure
+winget install -e --id Deezer.Deezer
+winget install -e --id DevToys-app.DevToys
